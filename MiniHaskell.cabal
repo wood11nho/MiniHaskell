@@ -25,7 +25,19 @@ source-repository head
 
 library
   exposed-modules:
+      BoolClass
+      EitherClass
+      Eval
+      Exp
+      Lab2
       Lib
+      MaybeClass
+      MyPrelude
+      PairClass
+      Parsing
+      Printing
+      REPLCommand
+      Sugar
   other-modules:
       Paths_MiniHaskell
   hs-source-dirs:

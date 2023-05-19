@@ -1,3 +1,5 @@
+{-# OPTIONS_GHC -Wno-missing-export-lists #-}
+{-# OPTIONS_GHC -Wno-unused-imports #-}
 module PairClass where
 
 import Prelude (Show(..), (<>), undefined, const, id, flip) -- for show

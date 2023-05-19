@@ -1,4 +1,7 @@
+{-# LANGUAGE RankNTypes #-}
+{-# LANGUAGE ScopedTypeVariables #-}
 {-# OPTIONS_GHC -Wno-unused-imports #-}
+
 module MaybeClass where
 
 import Prelude (Show(..), (<>), undefined, ($)) -- for show instances
